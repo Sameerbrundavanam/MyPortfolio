@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "dependencies": {
+    "servor": "^4.0.2",
+    "aos": "^2.3.4",
+    "boxicons": "^2.1.4"
+  }
+}
